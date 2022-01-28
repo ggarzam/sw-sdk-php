@@ -1,5 +1,5 @@
 {
-  "name": "lunasoft/sw-sdk-php",
+  "name": "ggarzam/sw-sdk-php",
   "description": "PHP Library for SW Services",
   "type": "library",
   "version": "1.0.2.1",
@@ -7,24 +7,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Rich Barusta",
-      "email": "ricardo.barusta@sw.com.mx"
-    },
-    {
-      "name": "Alex Ramos",
-      "email": "alejandro.ramos@sw.com.mx"
-    },
-    {
-      "name": "Heltton Ramirez",
-      "email": "heltton.ramirez@sw.com.mx"
-    },
-    {
-      "name": "Flavio Ochoa",
-      "email": "flavio.ochoa@sw.com.mx"
-    },
-    {
-      "name": "Emmanuel Contreras",
-      "email": "emmanuel.contreras@sw.com.mx"
+      "name": "Guadalupe Garza",
+      "email": "ggarzam88@gmail.com"
     }
   ],
   "require-dev": {
